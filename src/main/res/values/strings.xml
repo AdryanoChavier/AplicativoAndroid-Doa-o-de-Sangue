@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doação</string>
+    <string name="title">Qual é seu tipo sanguíneo?</string>
+    <string name="variavel">Informe seu tipo sanguíneo</string>
+    <string name="buttton">Pesquisar</string>
+    <string name="title2">Pessoas com os tipos sangúineos abaixo podem doar pra você</string>
+</resources>
